@@ -52,14 +52,3 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
-  .modal-header{
-    background-color: darkslateblue;
-color: floralwhite;
-    
-}
-#close-modal{
-  color: floralwhite;
-}
-.modal-body{
-  background-color: rgb(152, 152, 233);
-}

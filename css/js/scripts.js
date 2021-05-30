@@ -1,4 +1,4 @@
-<script>
+
 $(document).ready(function(){
     $('#mycarousel').carousel({interval: 2000});
     
@@ -17,19 +17,17 @@ $(document).ready(function(){
    
     
 });
-</script>
-<script>
+
     $(document).ready(function(){
       $("#loginModal").click(function(){
         $("#myModal").modal('toggle');
       });
     });
-    </script>
-    <script>
+    
         $(document).ready(function(){
           $("#exampleModal").click(function(){
             $("#myModal").modal('toggle');
           });
         });
-        </script>
+
         
